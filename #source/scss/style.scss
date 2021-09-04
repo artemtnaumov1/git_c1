@@ -1,0 +1,15 @@
+ // Файл обнуляющих стилей
+@import "nullstyle.scss";
+
+%tplborder {
+	border: 2px solid blue;
+}
+
+@mixin Vold($f2,$f3,$b1) {
+	   font-size:$f2;
+	   color:$f3;
+ 	border:$b1;
+	
+}
+
+
