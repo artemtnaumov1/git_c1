@@ -11,3 +11,8 @@ function Obrabotka(el) {
 }
 
 console.log("sdasadsa")
+console.log("sd21312312333333333333333333dsa")
+console.log("sdasads213123a")
+console.log("sd23213123a")
+console.log("sda31231sadsa")
+//sadadasd asd asda
