@@ -9,3 +9,5 @@ function Obrabotka(el) {
     }
 
 }
+
+console.log("sdasadsa")
